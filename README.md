@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul6967&label=Profile%20views&color=0e75b6&style=flat" alt="rahul6967" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website In Django**
+- 🔭 I’m currently working on **_**
 
-- 🌱 I’m currently learning **AWS, NGNIX and GUNICORN**
+- 🌱 I’m currently learning **Vue.Js**
 
 - 📫 How to reach me **rahuldahiya6967@gmail.com**
 
